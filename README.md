@@ -1,5 +1,5 @@
 # Convert Bedrock Geometry
-Convert Bedrock geometrys from 1.12.2 up to legacy geometry
+Convert Bedrock geometry's from 1.12.2 up to legacy geometry
 
 Made by D Flog Flag with Ai help
 
